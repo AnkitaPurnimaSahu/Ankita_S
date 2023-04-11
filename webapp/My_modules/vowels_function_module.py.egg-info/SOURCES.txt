@@ -1,0 +1,6 @@
+setup.py
+vowels_function_module.py
+vowels_function_module.py.egg-info/PKG-INFO
+vowels_function_module.py.egg-info/SOURCES.txt
+vowels_function_module.py.egg-info/dependency_links.txt
+vowels_function_module.py.egg-info/top_level.txt
